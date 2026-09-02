@@ -4,6 +4,8 @@ A Tampermonkey userscript that stretches the LastPass item / secure-note drawer
 so long notes are actually readable, instead of being crammed into a narrow
 fixed-width panel.
 
+Fixes the issue discussed here : https://community.lastpass.com/discussion/4810/how-can-i-see-a-bigger-display-of-a-secure-note-or-notes-on-a-password-new-ui-requires-too-much-scrolling
+
 The width is yours to control — slider, keyboard, or an exact number — and it is
 remembered between sessions.
 
